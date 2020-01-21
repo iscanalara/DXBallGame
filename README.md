@@ -1,2 +1,2 @@
 # DXBallGame
-* This is a simple dxball game with game engine.*
+*This is a simple dxball game with game engine.*
